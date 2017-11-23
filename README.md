@@ -7,8 +7,10 @@ jquery library
 
 # 2. How to use?
 <head></head> 사이에
+```
 <script type="text/javascript" src="http://175.207.13.239:55001/haerulib.js"></script>
 <link rel="stylesheet" href="http://175.207.13.239:55001/haerulib.css">
+```
 를 작성합니다.
 
 ## 2.1 Image slider
