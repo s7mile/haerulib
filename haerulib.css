@@ -69,4 +69,32 @@ li {list-style: none}
 	line-height: normal;
 }
 
-.selectbox ul a:hover {background: #f1f1f1;}
+.selectbox ul a:hover {background: #f1f1f1;}h
+
+
+
+
+
+/* 슬라이더 사이즈 */
+.ulWrap, .wrapper, .ulWrap img {
+    width: 400px;
+    height: 300px;
+}
+
+/* 고정 */
+ul {margin: 0; padding: 0;}
+li {list-style: none}
+.wrapper {
+    position: relative;
+    margin: 0 auto;
+}
+#haeruPrev {
+    position: absolute;
+    left: -50px;
+    top: 150px;
+}
+#haeruNext {
+    position: absolute;
+    right: -50px;
+    top: 150px;
+}
