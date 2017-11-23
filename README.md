@@ -10,12 +10,15 @@ jquery library
 <script type="text/javascript" src="http://175.207.13.239:55001/haerulib.js"></script>
 <link rel="stylesheet" href="http://175.207.13.239:55001/haerulib.css">
 를 작성합니다.
+
 ## 2.1 Image slider
     ```
     $("#sliderUl").haeruSlide();
     ```
+    
 ## 2.2 Selectbox
     ```
     $("select").haeruSelect();
     ```
+    
 # 3. Question?
